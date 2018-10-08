@@ -1,0 +1,60 @@
+Tower says: Baloon#B1(0) registered to weather tower.
+Tower says: Baloon#B2(1) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H2(4) registered to weather tower.
+Tower says: Helicopter#H3(5) registered to weather tower.
+Tower says: Baloon#B3(6) registered to weather tower.
+Tower says: Jetplane#J2(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+Baloon#B1(0): Man I can't see where I'm going, Fog gon make me pop
+Baloon#B2(1): I've gained weight, I must be frozen - I can't elevate no more
+Helicopter#H1(3): Ever seen a heli going in reverse! damn snow!
+Helicopter#H2(4): Ever seen a heli going in reverse! damn snow!
+Helicopter#H3(5): I'ma make it through this fog! man it's affecting my speed
+Baloon#B3(6): Up up and away, Its a Sunny day
+Jetplane#J2(7): Well snow ain't fun! I'm barely moving - wait!... I am! In the OPPOSITE DIRECTION
+Helicopter#H4(8): Pushing through the rain drops, I can go higher! YEA! slowly but surely
+Baloon#B1(0): Up up and away, Its a Sunny day
+Baloon#B2(1): These rain drops better not make me pop
+Helicopter#H1(3): Ever seen a heli going in reverse! damn snow!
+Helicopter#H2(4): Ever seen a heli going in reverse! damn snow!
+Helicopter#H3(5): Clear skies, Let's do this - Its sunny baby!
+Baloon#B3(6): These rain drops better not make me pop
+Tower says: Jetplane#J2(7) unregistered from weather tower.
+Tower says: Jetplane#J2(7) unregistered from weather tower.
+Helicopter#H4(8): I'ma make it through this fog! man it's affecting my speed
+Baloon#B1(0): These rain drops better not make me pop
+Baloon#B2(1): I've gained weight, I must be frozen - I can't elevate no more
+Tower says: Helicopter#H1(3) unregistered from weather tower.
+Tower says: Helicopter#H1(3) unregistered from weather tower.
+Helicopter#H2(4): Ever seen a heli going in reverse! damn snow!
+Helicopter#H3(5): I'ma make it through this fog! man it's affecting my speed
+Baloon#B3(6): I've gained weight, I must be frozen - I can't elevate no more
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
+Baloon#B1(0): I've gained weight, I must be frozen - I can't elevate no more
+Baloon#B2(1): These rain drops better not make me pop
+Helicopter#H2(4): Ever seen a heli going in reverse! damn snow!
+Helicopter#H3(5): Clear skies, Let's do this - Its sunny baby!
+Baloon#B3(6): These rain drops better not make me pop
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
+Baloon#B1(0): These rain drops better not make me pop
+Baloon#B2(1): I've gained weight, I must be frozen - I can't elevate no more
+Tower says: Helicopter#H2(4) unregistered from weather tower.
+Tower says: Helicopter#H2(4) unregistered from weather tower.
+Helicopter#H3(5): Pushing through the rain drops, I can go higher! YEA! slowly but surely
+Baloon#B3(6): I've gained weight, I must be frozen - I can't elevate no more
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
+Tower says: Baloon#B1(0) unregistered from weather tower.
+Tower says: Baloon#B1(0) unregistered from weather tower.
+Baloon#B2(1): These rain drops better not make me pop
+Helicopter#H3(5): Pushing through the rain drops, I can go higher! YEA! slowly but surely
+Tower says: Baloon#B3(6) unregistered from weather tower.
+Tower says: Baloon#B3(6) unregistered from weather tower.
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
+Baloon#B2(1): I've gained weight, I must be frozen - I can't elevate no more
+Helicopter#H3(5): Pushing through the rain drops, I can go higher! YEA! slowly but surely
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
+Tower says: Baloon#B2(1) unregistered from weather tower.
+Tower says: Baloon#B2(1) unregistered from weather tower.
+Helicopter#H3(5): Pushing through the rain drops, I can go higher! YEA! slowly but surely
+Helicopter#H4(8): Clear skies, Let's do this - Its sunny baby!
